@@ -1,0 +1,4 @@
+# telegraf/telegraf.conf
+[[inputs.cpu]]
+  percpu = true
+  totalcpu = true
